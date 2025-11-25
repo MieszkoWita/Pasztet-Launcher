@@ -1,1 +1,1 @@
-Twórca nie ponosi odpowiedzialności za uszkodzenie sprzętu za pomocą pliku launcher.bat
+Twórca nie ponosi odpowiedzialności za uszkodzenie sprzętu itp.
